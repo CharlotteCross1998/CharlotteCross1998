@@ -27,13 +27,13 @@
 * CPU: i5-2300
 * GPU: HD 6670
 * RAM: 12GB DDR3
-* OS: Ubuntu 21.10, 5.13-0-23-generic
+* OS: Ubuntu 21.10, 5.15.0-16.1-liquorix-amd64
 
 ### Laptop
 * CPU: i5-2410m
 * GPU: iGPU
 * RAM: 12GB DDR3
-* OS: Arch Linux, 5.12.18-1-ck-sandybridge
+* OS: Arch Linux, 5.16.1-arch1-1
 
 ## Other
 
