@@ -1,5 +1,7 @@
 ## Hi, I'm Charlotte~
 
+  [![HitCount](https://hits.dwyl.com/charlottecross1998/charlottecross1998.svg?style=flat-square)](http://hits.dwyl.com/charlottecross1998/charlottecross1998)
+
 ### About Me
 
 * She/Her
@@ -7,6 +9,7 @@
 
 ![Trans Flag](transflag.png)
 ![Pan Flag](panflag.png)
+
 
 ---
 
